@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         Log.i("MainActivity", "hello world");
         Log.i("MainActivity", "I'm feature");
         Log.i("MainActivity", "I'm feature login");
+        Log.i("MainActivity", "I'm feature register");
     }
 }
