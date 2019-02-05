@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.i("MainActivity", "hello world");
         Log.i("MainActivity", "I'm feature");
+        Log.i("MainActivity", "I'm feature login");
     }
 }
